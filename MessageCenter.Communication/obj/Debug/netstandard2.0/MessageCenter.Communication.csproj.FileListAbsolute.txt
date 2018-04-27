@@ -1,0 +1,8 @@
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.deps.json
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.pdb
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.csproj.CoreCompileInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.AssemblyInfoInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.AssemblyInfo.cs
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.pdb
