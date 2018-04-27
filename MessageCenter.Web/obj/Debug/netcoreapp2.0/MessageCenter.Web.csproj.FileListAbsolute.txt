@@ -1,0 +1,10 @@
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\bin\Debug\netcoreapp2.0\MessageCenter.Web.deps.json
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\bin\Debug\netcoreapp2.0\MessageCenter.Web.runtimeconfig.json
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\bin\Debug\netcoreapp2.0\MessageCenter.Web.runtimeconfig.dev.json
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\bin\Debug\netcoreapp2.0\MessageCenter.Web.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\bin\Debug\netcoreapp2.0\MessageCenter.Web.pdb
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\obj\Debug\netcoreapp2.0\MessageCenter.Web.csproj.CoreCompileInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\obj\Debug\netcoreapp2.0\MessageCenter.Web.AssemblyInfoInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\obj\Debug\netcoreapp2.0\MessageCenter.Web.AssemblyInfo.cs
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\obj\Debug\netcoreapp2.0\MessageCenter.Web.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Web\obj\Debug\netcoreapp2.0\MessageCenter.Web.pdb

@@ -1,0 +1,8 @@
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\bin\Debug\netstandard2.0\MessageCenter.DataAccess.deps.json
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\bin\Debug\netstandard2.0\MessageCenter.DataAccess.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\bin\Debug\netstandard2.0\MessageCenter.DataAccess.pdb
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\obj\Debug\netstandard2.0\MessageCenter.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\obj\Debug\netstandard2.0\MessageCenter.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\obj\Debug\netstandard2.0\MessageCenter.DataAccess.AssemblyInfo.cs
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\obj\Debug\netstandard2.0\MessageCenter.DataAccess.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.DataAccess\obj\Debug\netstandard2.0\MessageCenter.DataAccess.pdb
