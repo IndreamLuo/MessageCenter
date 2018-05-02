@@ -272,6 +272,19 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "MessageCenter.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "StructureMap": "4.6.1"
+        },
+        "compile": {
+          "bin/placeholder/MessageCenter.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessageCenter.DataAccess.dll": {}
+        }
       }
     }
   },
@@ -1614,10 +1627,16 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "MessageCenter.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MessageCenter.DataAccess/MessageCenter.DataAccess.csproj",
+      "msbuildProject": "../MessageCenter.DataAccess/MessageCenter.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "MessageCenter.DataAccess >= 1.0.0",
       "NETStandard.Library >= 2.0.1",
       "StructureMap >= 4.6.1"
     ]
@@ -1652,7 +1671,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\YLuo\\Desktop\\GitHub\\MessageCenter\\MessageCenter.DataAccess\\MessageCenter.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\YLuo\\Desktop\\GitHub\\MessageCenter\\MessageCenter.DataAccess\\MessageCenter.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

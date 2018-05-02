@@ -6,3 +6,6 @@ C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\obj\Debug\n
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\obj\Debug\netstandard2.0\MessageCenter.Application.AssemblyInfo.cs
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\obj\Debug\netstandard2.0\MessageCenter.Application.dll
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\obj\Debug\netstandard2.0\MessageCenter.Application.pdb
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\bin\Debug\netstandard2.0\MessageCenter.DataAccess.dll
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\bin\Debug\netstandard2.0\MessageCenter.DataAccess.pdb
+C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Application\obj\Debug\netstandard2.0\MessageCenter.Application.csproj.CopyComplete
