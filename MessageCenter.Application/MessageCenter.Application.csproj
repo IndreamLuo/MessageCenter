@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MessageCenter.DataAccess\MessageCenter.DataAccess.csproj" />
+    <ProjectReference Include="..\MessageCenter.Communication\MessageCenter.Communication.csproj" />
   </ItemGroup>
 
 </Project>

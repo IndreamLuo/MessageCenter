@@ -1,8 +1,18 @@
+using MessageCenter.Application.Route;
+using MessageCenter.Communication;
+
 namespace MessageCenter.Application.Message
 {
     public class MessageApplication : IMessageApplication
     {
-        public dynamic Send(dynamic messageContent)
+        IRouteManager RouteManager;
+
+        public MessageApplication(IRouteManager routeManager)
+        {
+            RouteManager = routeManager;
+        }
+
+        public IMessage<dynamic> Send(IMessage<dynamic> messageContent)
         {
             throw new System.NotImplementedException();
         }

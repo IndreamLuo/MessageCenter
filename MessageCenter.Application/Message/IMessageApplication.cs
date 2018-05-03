@@ -1,7 +1,9 @@
+using MessageCenter.Communication;
+
 namespace MessageCenter.Application.Message
 {
     public interface IMessageApplication
     {
-        dynamic Send(dynamic messageContent);
+        IMessage<dynamic> Send(IMessage<dynamic> messageContent);
     }
 }

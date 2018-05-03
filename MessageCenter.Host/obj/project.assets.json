@@ -4776,6 +4776,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "MessageCenter.Communication": "1.0.0",
           "MessageCenter.DataAccess": "1.0.0",
           "StructureMap": "4.6.1"
         },
