@@ -6,3 +6,12 @@ C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.AssemblyInfo.cs
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.dll
 C:\Users\YLuo\Desktop\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.pdb
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.deps.json
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.dll
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\bin\Debug\netstandard2.0\MessageCenter.Communication.pdb
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.csprojAssemblyReference.cache
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.csproj.CoreCompileInputs.cache
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.AssemblyInfoInputs.cache
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.AssemblyInfo.cs
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.dll
+C:\Development\GitHub\MessageCenter\MessageCenter.Communication\obj\Debug\netstandard2.0\MessageCenter.Communication.pdb

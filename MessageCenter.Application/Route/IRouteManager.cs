@@ -4,6 +4,6 @@ namespace MessageCenter.Application.Route
 {
     public interface IRouteManager
     {
-        Api this[string key] { get; }
+        EndPoint this[int key] { get; }
     }
 }
